@@ -2,13 +2,12 @@
 [![Docker Hub](https://img.shields.io/badge/MADE%20with-JAVA-RED.svg)](#JAVA)
 [![Generic badge](https://img.shields.io/badge/current%20version-2.0.4-1abc9c.svg)](https://github.com/levigo/gwt-spring-boot-starter/tree/v2.0.4)
 
-# A Spring-Boot Starter for Google Web Toolkit (GWT) applications
+# A Spring-Boot app for Google Web Toolkit (GWT) applications
 
 ## Features
 - integrate GWT compilation into the Spring application lifecycle 
 - automatically register and deploy GWT-RPC endpoints
-- ~~transparently support GWT dev-mode without IDE-plugins etc.~~
-  - with Spring Boot 3 and the migration to JakartaEE, dev mode is no longer supported as part of this project. 
+- with Spring Boot 3 and the migration to JakartaEE, dev mode is no longer supported as part of this project. 
     this might change when gwt-dev has support for JakartaEE.
 
 ## Usage
